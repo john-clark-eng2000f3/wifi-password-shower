@@ -38,4 +38,4 @@ Force a specific encoding if your Windows console is using something non-standar
 python wifishow.py --encoding cp1251
 ```
 
-<!-- verified: 2026-09-19 -->
+<!-- verified: 2026-09-20 -->
